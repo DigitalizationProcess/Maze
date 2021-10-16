@@ -16,6 +16,8 @@ Used resources:
 
 4. Maze generation algorithm  https://en.wikipedia.org/wiki/Maze_generation_algorithm#Depth-first_search
 
+5. Maze generation. http://rosettacode.org/wiki/Maze_generation
+
 System configuration
 MacBook Pro mid 2012
 macOS Catalina Version 10.15.7
